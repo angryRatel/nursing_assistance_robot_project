@@ -98,7 +98,8 @@ https://docs.google.com/presentation/d/1NZCnV38TH0ElrKdvknqc87FGtfnRYHoj/edit?us
 ### 1) 🏥 제조실  
 ![시나리오 1](https://github.com/user-attachments/assets/f46c4487-bd00-44d8-a1ff-8cf17a8d720c)
 
-#### 세부 시나리오
+
+#### 상세 동작 흐름
 
 **① 약품 탐지 및 위치 추정**  
 - 요청 수신 → Nav2로 선반 앞 도착  
@@ -115,7 +116,7 @@ https://docs.google.com/presentation/d/1NZCnV38TH0ElrKdvknqc87FGtfnRYHoj/edit?us
 ### 2) 🛏 병실  
 ![시나리오2](https://github.com/user-attachments/assets/72cff4be-17c5-457c-a431-aeaebe92f2b5)
 
-#### 세부 시나리오
+#### 상세 동작 흐름
 
 **① 환자 ID 인식**  
 - 병실 도착 후 회전 → ArUco 마커 탐지로 환자 ID 확인  
@@ -131,7 +132,7 @@ https://docs.google.com/presentation/d/1NZCnV38TH0ElrKdvknqc87FGtfnRYHoj/edit?us
 ### 3) 🤖 로봇 협업  
 ![시나리오 3](https://github.com/user-attachments/assets/359776c8-ef37-49c6-985e-9f082ad1503d)
 
-#### 세부 시나리오
+#### 상세 동작 흐름
 
 **① 좌표 공유 및 동기화**  
 - robot1: 현재 좌표 → MQTT Publish  
