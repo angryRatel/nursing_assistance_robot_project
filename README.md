@@ -71,7 +71,7 @@ https://docs.google.com/presentation/d/1NZCnV38TH0ElrKdvknqc87FGtfnRYHoj/edit?us
 
 ---
 
-## 4. 👥 협업 내용 (맡은 역할), 진행 과정
+## 4. 👥 팀원 역할 분담
 | 이름 | 역할 |
 |------|------|
 | 백홍하 | Vision, GUI |
