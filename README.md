@@ -4,6 +4,8 @@
 > 병원 내 간호사의 반복 업무를 줄이기 위해 약품 전달 및 환자 생체징후 확인이 가능한 ROS2 기반의 간호 어시스턴트 로봇을 개발한 프로젝트입니다.
 
 ---
+### 자세한 설명이 필요한 부분은 pdf,ppt 파일 확인
+---
 
 ## 🎥 시연 영상  
 [![Demo Video](https://img.youtube.com/vi/MnMJ5cEe0sA/0.jpg)](https://youtu.be/MnMJ5cEe0sA)
