@@ -69,6 +69,8 @@ https://docs.google.com/presentation/d/1NZCnV38TH0ElrKdvknqc87FGtfnRYHoj/edit?us
 | 문준웅 | robot1 Navigation, GUI |
 | 정민섭 | robot1 Navigation, 바이탈 체크 기능 |
 
+프로젝트는 팀원 전체의 협업을 바탕으로 진행되었으며, 핵심 기능은 역할에 따라 분담하여 개발하였습니다
+
 ---
 
 ## 5. 🎯 성과 및 결과물
