@@ -8,7 +8,7 @@
 [![Demo Video](https://img.youtube.com/vi/MnMJ5cEe0sA/0.jpg)](https://youtu.be/MnMJ5cEe0sA)
 
 ## 📑 발표 자료  
-[PPT 링크](https://docs.google.com/presentation/d/1NZCnV38TH0ElrKdvknqc87FGtfnRYHoj/edit?usp=sharing)
+https://docs.google.com/presentation/d/1NZCnV38TH0ElrKdvknqc87FGtfnRYHoj/edit?usp=sharing
 
 ---
 
