@@ -49,7 +49,7 @@ https://docs.google.com/presentation/d/1NZCnV38TH0ElrKdvknqc87FGtfnRYHoj/edit?us
 ![병동](images/병동.png)
 ---
 
-## 2. 🛠 주요 기능 구현 과정
+## 2. 🛠 주요 기능
 - YOLOv8 기반 약품 탐지 및 Depth 위치 추정
 - SLAM 기반 자율 주행 및 정밀 지도 작성
 - 비접촉 rPPG 방식의 생체징후(심박, SpO2, 혈압) 측정
